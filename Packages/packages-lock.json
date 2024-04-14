@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "com.moi.utils": {
+      "version": "file:C:/Users/Durand/Desktop/Dev/Quetes/Utils",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
     "com.unity.2d.animation": {
       "version": "9.1.0",
       "depth": 1,
